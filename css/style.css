@@ -1,0 +1,30 @@
+h3{
+	border: 5px dotted green;
+
+
+}
+h4{
+	border:10px solid red;
+}
+h5{
+	border:5px dashed;
+}
+.head1{
+	color:blue;
+}
+.bg_red{
+	background:red;
+
+}
+.green{
+	color:green;
+}
+.box
+{
+	width: 200px;
+	height: 200px;
+	background-color: rgba(558,55,62,.5);
+}
+.rgba-color{
+	color:yellow;
+}
